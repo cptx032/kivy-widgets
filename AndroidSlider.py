@@ -1,5 +1,6 @@
 '''
 Created by Willie Lawrence - cptx032 arroba gmail dot com
+https://github.com/cptx032/kivy-widgets
 '''
 from kivy.uix.widget import Widget
 from kivy.uix.behaviors import ButtonBehavior
